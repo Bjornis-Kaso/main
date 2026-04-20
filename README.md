@@ -16,15 +16,39 @@ I am particularly interested in embedded systems, power electronics, and hardwar
 * 👥  I'm looking to collaborate on Embedded systems projects, electronics design, Arduino/ESP32 applications, and real-world hardware solutions
 * 💬  Passionate about turning circuit designs into working systems and solving real-world engineering problems
 
+## 🛠️ Skills
+
+### 🔌 Embedded Systems & Hardware
 <p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" /></a>
-  <br/>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" /></a>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" title="Arduino" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" title="Raspberry Pi" />
 </p>
+
+Design and development of microcontroller-based systems, including sensor interfacing, ADC usage, and real-time data acquisition.
+
+---
+
+### 💻 Programming
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" title="C++" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python" />
+</p>
+
+Used for embedded development, system logic implementation, and data processing.
+
+---
+
+### ⚙️ Tools & Development Environment
+<p align="left">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux" />
+</p>
+
+Development, debugging, and working in efficient programming and system environments.
+
+---
+
+### 📐 Electronics & Measurement
 
 ### Socials
 
