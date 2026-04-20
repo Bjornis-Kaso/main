@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bjornis Kaso
+Hi 👋 My name is Bjornis Kaso
 =====================================================================================================================================
 
 Electrical Engineering Technology Student | Embedded Systems & Hardware
@@ -10,11 +10,21 @@ I have worked on building and validating measurement systems, troubleshooting ha
 
 I am particularly interested in embedded systems, power electronics, and hardware-software integration.
 
-* 🌍  I'm based in Albania
-* ✉️  You can contact me at [bjorniskaso@gmail.com](mailto:bjorniskaso@gmail.com)
-* 🧠  I'm currently learning Improving my AC Energy Meter with better calibration, filtering, and measurement accuracy
-* 👥  I'm looking to collaborate on Embedded systems projects, electronics design, Arduino/ESP32 applications, and real-world hardware solutions
-* 💬  Passionate about turning circuit designs into working systems and solving real-world engineering problems
+---
+
+## 📫 Contact
+- 📍 Albania  
+- ✉️ bjorniskaso@gmail.com  
+- 🌐 Portfolio: https://github.com/Bjornis-Kaso 
+
+---
+
+## 🚀 Currently
+- Developing new embedded system projects and improving measurement accuracy in hardware-based systems  
+- Open to collaborating on embedded systems, electronics design, and real-world hardware solutions  
+- Passionate about turning circuit designs into real-world systems  
+
+---
 
 ## 🛠️ Skills
 
@@ -38,7 +48,7 @@ Used for embedded development, system logic implementation, and data processing.
 
 ---
 
-### ⚙️ Tools & Development Environment
+### ⚙️ Tools & Environment
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" title="VS Code" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" title="Linux" />
@@ -49,16 +59,33 @@ Development, debugging, and working in efficient programming and system environm
 ---
 
 ### 📐 Electronics & Measurement
+Circuit Analysis • Signal Conditioning • Measurement Systems • Calibration • Troubleshooting
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Bjornis-Kaso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/bjornis-kaso/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/Bjornis-Kaso" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Bjornis-Kaso?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+### 🎯 Focus Areas
+Embedded Systems • Power Electronics • Hardware-Software Integration
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/Bjornis-Kaso"><img src="https://github-readme-stats.vercel.app/api?username=Bjornis-Kaso&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bjornis-Kaso's GitHub stats" /></a>
+## 🔗 Socials
+<p align="left">
+  <a href="https://www.github.com/Bjornis-Kaso" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/bjornis-kaso/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
 
-<a href="https://github.com/Bjornis-Kaso" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjornis-Kaso&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 📊 GitHub Stats
+
+<a href="http://www.github.com/Bjornis-Kaso">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bjornis-Kaso&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
+
+<a href="https://github.com/Bjornis-Kaso">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjornis-Kaso&langs_count=6&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" />
+</a>
