@@ -17,19 +17,13 @@ I am particularly interested in embedded systems, power electronics, and hardwar
 * 💬  Passionate about turning circuit designs into working systems and solving real-world engineering problems
 
 <p align="left">
-
-<!-- Programming -->
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" title="C++" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" title="Python" /></a>
-
-<!-- Embedded / Hardware -->
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" title="Arduino" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" title="Raspberry Pi" /></a>
-
-<!-- Tools -->
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" title="VS Code" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" title="Linux" /></a>
-
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" /></a>
+  <br/>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" /></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" /></a>
 </p>
 
 ### Socials
